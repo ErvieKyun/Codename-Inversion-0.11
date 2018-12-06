@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codename Inversion 0.11", "Codename Inversion 0.11.csproj", "{DBCDEA56-431B-6A66-33DC-0FF2E684F6DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codename Inversion 0.11.Editor", "Codename Inversion 0.11.Editor.csproj", "{DBFB8628-4A20-CD64-E3AF-566BCD97A3FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCDEA56-431B-6A66-33DC-0FF2E684F6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCDEA56-431B-6A66-33DC-0FF2E684F6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCDEA56-431B-6A66-33DC-0FF2E684F6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCDEA56-431B-6A66-33DC-0FF2E684F6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBFB8628-4A20-CD64-E3AF-566BCD97A3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFB8628-4A20-CD64-E3AF-566BCD97A3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBFB8628-4A20-CD64-E3AF-566BCD97A3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFB8628-4A20-CD64-E3AF-566BCD97A3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

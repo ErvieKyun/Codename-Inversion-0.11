@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codename Inversion 0.08", "Assembly-CSharp.csproj", "{4F8615FD-FEC6-8CAE-75A0-84B8414B9E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codename Inversion 0.08", "Assembly-CSharp-Editor.csproj", "{8D323EA1-7053-8141-A2C5-417B224AA7E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F8615FD-FEC6-8CAE-75A0-84B8414B9E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8615FD-FEC6-8CAE-75A0-84B8414B9E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8615FD-FEC6-8CAE-75A0-84B8414B9E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8615FD-FEC6-8CAE-75A0-84B8414B9E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D323EA1-7053-8141-A2C5-417B224AA7E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D323EA1-7053-8141-A2C5-417B224AA7E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D323EA1-7053-8141-A2C5-417B224AA7E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D323EA1-7053-8141-A2C5-417B224AA7E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
